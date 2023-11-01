@@ -1,2 +1,0 @@
-DEL file5.exe
-LS
